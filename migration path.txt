@@ -1,0 +1,18 @@
+Not updated:
+Security Craft
+Citadel
+LocalLooks
+mcef
+WebDisplays
+
+Updated:
+Easy Npc
+Fusion
+Rechiseled (dnu)
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+
+Removed:
+jrhc
+
+dnu - don't need update
