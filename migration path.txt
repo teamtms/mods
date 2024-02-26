@@ -20,5 +20,6 @@ Ultimate car
 
 Removed:
 jrhc
+chunkloaders
 
 dnu - don't need update
