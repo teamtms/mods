@@ -1,6 +1,5 @@
 Not updated:
 Security Craft
-AdditionalPlacements
 Citadel
 Create
 FramedBlocks
@@ -8,15 +7,16 @@ LocalLooks
 mcef
 Optifine
 WebDisplays
-WorldEdit
 
 Updated:
+AdditionalPlacements
 Easy Npc
 Fusion
 Rechiseled (dnu)
 SuperMartijn642's Config Lib
 SuperMartijn642's Core Lib
 Ultimate car
+WorldEdit
 
 Removed:
 jrhc
